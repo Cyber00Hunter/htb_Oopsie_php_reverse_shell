@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <bookmarks list=""/>
+  <node name="10.10.10.28" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1632861494" ts_lastsave="1633013199">
+    <rich_text scale="h3" background="#f9f9f9" foreground="#606060">subscribe</rich_text>
+    <rich_text> now for more info:-  </rich_text>
+    <rich_text link="webs https://www.youtube.com/channel/UCcSZ0csG7i2yuDcIbM4BXIg">https://www.youtube.com/channel/UCcSZ0csG7i2yuDcIbM4BXIg</rich_text>
+    <rich_text>
+
+
+
+ MEGACORP_4dm1n!!
+ 
+ &lt;td&gt;86575&lt;/td&gt;&lt;td&gt;super admin&lt;/td&gt;&lt;td&gt;superadmin@megacorp.com&lt;/td&gt;
+ 
+ 
+ 
+ &lt;?php
+$conn = mysqli_connect('localhost','robert','M3g4C0rpUs3r!','garage');
+?&gt;
+
+ 
+
+
+
+
+filezilla.xml&lt;?xml version="1.0" encoding="UTF-8" standalone="yes" ?&gt;
+&lt;FileZilla3&gt;
+    &lt;RecentServers&gt;
+        &lt;Server&gt;
+            &lt;Host&gt;10.10.10.46&lt;/Host&gt;
+            &lt;Port&gt;21&lt;/Port&gt;
+            &lt;Protocol&gt;0&lt;/Protocol&gt;
+            &lt;Type&gt;0&lt;/Type&gt;
+            &lt;User&gt;ftpuser&lt;/User&gt;
+            &lt;Pass&gt;mc@F1l3ZilL4&lt;/Pass&gt;
+            &lt;Logontype&gt;1&lt;/Logontype&gt;
+            &lt;TimezoneOffset&gt;0&lt;/TimezoneOffset&gt;
+            &lt;PasvMode&gt;MODE_DEFAULT&lt;/PasvMode&gt;
+            &lt;MaximumMultipleConnections&gt;0&lt;/MaximumMultipleConnections&gt;
+            &lt;EncodingType&gt;Auto&lt;/EncodingType&gt;
+            &lt;BypassProxy&gt;0&lt;/BypassProxy&gt;
+        &lt;/Server&gt;
+    &lt;/RecentServers&gt;
+&lt;/FileZilla3&gt;
+
+
+
+
+ 
+ 
+ 
+</rich_text>
+  </node>
+</cherrytree>
